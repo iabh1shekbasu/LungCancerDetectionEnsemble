@@ -1,7 +1,9 @@
 # Lung Cancer Detection from Thoracic CT Scans using an Ensemble of Deep Learning Models
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iabh1shekbasu/LungCancerDetectionEnsemble/blob/main/Probability_Extraction_and_Analysis.ipynb
-)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iabh1shekbasu/LungCancerDetectionEnsemble/blob/main/Probability_Extraction_and_Analysis.ipynb)
+[![Publication Month](https://img.shields.io/badge/Published-Nov%202023-blue)](https://springer.com/journal/521)
+[![Journal](https://img.shields.io/badge/Journal-Neural%20Computing%20and%20Applications-brightgreen)](https://springer.com/journal/521)
+
 #### [Nandita Gautam](https://www.linkedin.com/in/nandita-gautam-a7932b95/)\*, [Abhishek Basu](https://www.linkedin.com/in/iabhishekbasu/)\*, and [Ram Sarkar](http://www.jaduniv.edu.in/profile.php?uid=686)
 \* Equally contributing first authors
 
@@ -25,3 +27,6 @@ If you're using this article or code in your research or applications, please co
     journal={Neural Computing and Applications},
     year={2023}
 }
+
+
+```
