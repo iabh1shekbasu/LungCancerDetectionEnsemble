@@ -6,3 +6,15 @@
 \* Equally contributing first authors
 
 Published in Neural Computing and Applications (Nov 2023), Springer
+
+
+## Citation
+If you're using XrayGPT in your research or applications, please cite using this BibTeX:
+```bibtex
+    @article{,
+        title={Lung Cancer Detection from Thoracic CT Scans using an Ensemble of Deep Learning Models},
+        author={Nandita Gautam, Abhishek Basu, and Ram Sarkar},
+        journal={Neural Computing and Applications},
+        year={2023}
+    }
+```
