@@ -25,18 +25,14 @@ Lung cancer remains a prevalent and deadly disease, claiming numerous lives annu
 If you're using this article or code in your research or applications, please consider citing using this BibTeX:
 
 ```bibtex
-@article{Gautam2023,
+@article{gautam2024lung,
   title={Lung cancer detection from thoracic CT scans using an ensemble of deep learning models},
   author={Gautam, Nandita and Basu, Abhishek and Sarkar, Ram},
   journal={Neural Computing and Applications},
-  volume={},
-  number={},
-  pages={},
-  year={2023},
-  publisher={Springer},
-  doi={10.1007/s00521-023-09130-7},
-  url={https://doi.org/10.1007/s00521-023-09130-7},
+  volume={36},
+  number={5},
+  pages={2459--2477},
+  year={2024},
+  publisher={Springer}
 }
-
-
 ```
